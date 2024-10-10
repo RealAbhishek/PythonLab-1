@@ -1,0 +1,10 @@
+Usage: usage AbhishekDubey_8_2.py -H <target host> -f <ports list file> [-O]
+
+Options:
+  -h, --help       show this help message and exit
+  -H TGTHOST       specify target host
+  -p TGTPORT       The -p flag has been disabled in this version of the nmap
+                   scan script. Please use the -f flag and input a .txt file
+                   with ports listen within it.
+  -f TGTPORTSFILE  specific ports list in file
+  -O               only print open ports
